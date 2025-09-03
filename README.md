@@ -67,3 +67,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isivara2021&show_icons=true&locale=en&layout=compact" alt="isivara2021" />
 </p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isivara2021&theme=github" alt="Contribution Graph" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isivara2021&theme=default" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isivara2021&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+### ⏳ Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=isivara2021" alt="WakaTime Stats" />
+</p>
+
+### 🌍 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isivara2021&theme=github" alt="Profile Summary" />
+</p>
+
