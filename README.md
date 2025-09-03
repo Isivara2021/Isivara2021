@@ -62,4 +62,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isivara2021&show_icons=true&locale=en" alt="isivara2021" />
 </p>
 
+### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isivara2021&show_icons=true&locale=en&layout=compact" alt="isivara2021" />
+</p>
+
 ---
