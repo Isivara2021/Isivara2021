@@ -74,12 +74,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isivara2021&show_icons=true&locale=en" alt="isivara2021" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isivara2021&show_icons=true&theme=default" />
 </p>
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isivara2021&show_icons=true&locale=en&layout=compact" alt="isivara2021" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isivara2021&layout=compact" />
 </p>
 
 ### 🌍 Profile Summary
