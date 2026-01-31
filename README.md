@@ -72,14 +72,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isivara2021&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=isivara2021&theme=default" />
 </p>
 
-### 🔥 Most Used Languages
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isivara2021&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isivara2021&theme=flat&no-frame=true" />
 </p>
 
 ### 🌍 Profile Summary
