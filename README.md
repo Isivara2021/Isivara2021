@@ -72,16 +72,6 @@
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isivara2021&theme=default" />
-</p>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isivara2021&theme=flat&no-frame=true" />
-</p>
-
 ### 🌍 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isivara2021&theme=github" alt="Profile Summary" />
