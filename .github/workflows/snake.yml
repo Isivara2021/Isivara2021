@@ -16,13 +16,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake (Dark + Gradient)
         uses: Platane/snk@v3
         with:
           github_user_name: isivara2021
+          palette: github-dark
+          color_snake: "#00e7ff"
+          color_dots: "#1f2937,#0ea5e9,#22c55e,#f59e0b,#ef4444"
           outputs: |
-            dist/snake.svg
             dist/snake-dark.svg
+            dist/snake.svg
+            dist/snake-gradient.svg
 
       - name: Deploy to output branch
         run: |
@@ -35,5 +39,5 @@ jobs:
           cp dist/* .
 
           git add .
-          git commit -m "generate snake animation" || echo "No changes"
+          git commit -m "update snake animation" || echo "no changes"
           git push origin output --force
