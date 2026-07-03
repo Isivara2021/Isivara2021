@@ -352,13 +352,21 @@ A full-stack business platform built for showcasing stainless steel products, ma
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Activity
+
+<p align="center">
+<i>Visual representation of my coding activity and consistency</i>
+</p>
+
+<br>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/isivara2021/isivara2021/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/isivara2021/isivara2021/output/snake-glow.svg"/>
 
 </p>
+
+<br>
 
 ---
 
