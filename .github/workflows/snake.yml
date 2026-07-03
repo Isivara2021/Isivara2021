@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Premium Snake
 
 on:
   schedule:
@@ -13,20 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake (Dark + Gradient)
+      - name: Generate premium snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: isivara2021
+
+          # Premium aesthetic palette
           palette: github-dark
-          color_snake: "#00e7ff"
-          color_dots: "#1f2937,#0ea5e9,#22c55e,#f59e0b,#ef4444"
+
+          color_snake: "#00f5ff"
+          color_dots: "#0f172a,#1e293b,#22c55e,#38bdf8,#f97316,#ef4444"
+
           outputs: |
-            dist/snake-dark.svg
             dist/snake.svg
-            dist/snake-gradient.svg
+            dist/snake-dark.svg
+            dist/snake-glow.svg
 
       - name: Deploy to output branch
         run: |
@@ -39,5 +43,5 @@ jobs:
           cp dist/* .
 
           git add .
-          git commit -m "update snake animation" || echo "no changes"
+          git commit -m "premium snake update" || echo "no changes"
           git push origin output --force
