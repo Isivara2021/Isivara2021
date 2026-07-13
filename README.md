@@ -352,6 +352,14 @@ A full-stack business platform built for showcasing stainless steel products, ma
 
 ---
 
+## 🌐 Top Languages
+
+<div align="center">
+  
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Isivara2021&count=5)
+
+</div>
+
 # 🐍 Contribution Activity
 
 <p align="center">
